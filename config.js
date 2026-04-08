@@ -87,7 +87,7 @@ const CONFIG = {
     {
       type: "quote",
       text: "Nanti kita sambut birthday sama sama okayyy",
-      text: "Kita nantikan 11/4/2026!",
+      author: "Kita nantikan 11/4/2026!",
     },
     {
       type: "stars",
