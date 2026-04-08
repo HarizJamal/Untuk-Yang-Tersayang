@@ -76,9 +76,9 @@ const CONFIG = {
     {
       type: "ideas",
       lines: [
-        "Hmm, plannya nak buat birthday wish dia macam ni je",
-        "Tapiiiiii....",
-        "Kita mestilah buat something yang <strong>special</strong> kannnn.",
+        "Hmm, takkan nak wish je kan?",
+        "kan kannn",
+        "Kita mestilah buat something yang <strong>special</strong>.",
         "Sebabbb,",
         "Cinta hati saya ni sangattttt special <span>:)</span>",
       ],
