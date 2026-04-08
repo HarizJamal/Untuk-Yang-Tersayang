@@ -87,7 +87,7 @@ const CONFIG = {
     {
       type: "quote",
       text: "Nanti kita sambut birthday sama sama okayyy",
-      author: "Kita nantikan 11/4/2026!",
+      text: "Kita nantikan 11/4/2026!",
     },
     {
       type: "stars",
@@ -99,7 +99,7 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
+      wishTitle: "Selamat_Hari_Lahir_Si_Cantikkk!!",
       wishText: "Semoga hari hari sayang sentiasa dirahmati dan diberkati. I love you Sayang <3",
     },
     {
